@@ -1,0 +1,24 @@
+.cx-ent{
+    width: 400px;
+    height: 470px;
+    background-color: #EBF3FF;
+    border-radius: 20px;
+    border: solid #0239ff;
+    margin-left: 200px;
+}
+.cx-ent, #foto-cx{
+    display: inline-block;
+}
+
+#esq{
+    font-size: 14px;
+}
+
+#foto{
+    width: 550px;
+    height: 550px;
+    padding-top: 20px;
+}
+#foto-cx{
+    padding-left: 190px;
+}
